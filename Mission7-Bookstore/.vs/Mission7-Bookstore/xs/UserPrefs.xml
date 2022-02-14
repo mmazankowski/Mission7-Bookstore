@@ -1,10 +1,19 @@
-﻿<Properties StartupConfiguration="{5D75EC36-BD1E-4D21-A169-494C2E568263}|Default">
+﻿<Properties StartupConfiguration="{5CC8D51B-3BDF-4E42-9196-B8B05BA13C8D}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission7-Bookstore" expanded="True">
-            <Node name="Mission7-Bookstore" expanded="True" selected="True" />
+            <Node name="Mission7-Bookstore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="iBookstoreRepository.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
