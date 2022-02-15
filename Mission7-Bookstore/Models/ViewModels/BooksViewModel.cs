@@ -9,6 +9,5 @@ namespace Mission7_Bookstore.Models.ViewModels
     {
         public IQueryable<Book> Books { get; set; }
         public PageInfo PageInfo { get; set; }
-
     }
 }
